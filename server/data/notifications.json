@@ -1,0 +1,72 @@
+[
+  {
+    "user": "569889a0fa277bcdc5d7d5fe",
+    "desc": "posted a photo on your wall.",
+    "read": false
+  },
+  {
+    "user": "569889b5fa277bcdc5d7d5ff",
+    "desc": "Use a Selection Filter to Find Exact Matches",
+    "read": false
+  },
+  {
+    "user": "569889bffa277bcdc5d7d600",
+    "desc": "Authors have requested to move all the tasks from 'Hands-on Exercise 5' to 'Hands-on Exercise 5'.",
+    "read": false
+  },
+  {
+    "user": "569889c7fa277bcdc5d7d601",
+    "desc": "Implement bi-directional data-binding with JavaScript",
+    "read": false
+  },
+  {
+    "user": "569889c7fa277bcdc5d7d601",
+    "desc": "The numbers in the table specify the first browser version that fully supports the property.",
+    "read": false
+  },
+  {
+    "user": "569889d0fa277bcdc5d7d602",
+    "desc": "The property is a comma-separated list of shadows, each specified by 2-4 length values.",
+    "read": false
+  },
+  {
+    "user": "569889d0fa277bcdc5d7d602",
+    "desc": "The color of the shadow. The default value is black.",
+    "read": false
+  },
+  {
+    "user": "569889d0fa277bcdc5d7d602",
+    "desc": "Sets this property to its default value.",
+    "read": false
+  },
+  {
+    "user": "569889ddfa277bcdc5d7d603",
+    "desc": "Some CSS properties are animatable, meaning that they can be used in animations and transitions.",
+    "read": false
+  },
+  {
+    "user": "569889ddfa277bcdc5d7d603",
+    "desc": "Animatable properties can change gradually from one value to another, like size, numbers, percentage and color.",
+    "read": false
+  },
+  {
+    "user": "569889c7fa277bcdc5d7d601",
+    "desc": "The numbers in the table specifies the first browser version that fully support CSS animations.",
+    "read": false
+  },
+  {
+    "user": "569889a0fa277bcdc5d7d5fe",
+    "desc": "W3Schools' Browser support reference is tested regularly with all major browsers.",
+    "read": false
+  },
+  {
+    "user": "569889b5fa277bcdc5d7d5ff",
+    "desc": "The border-top-right-radius property defines the shape of the border of the top-right corner.",
+    "read": false
+  },
+  {
+    "user": "569889b5fa277bcdc5d7d5ff",
+    "desc": "This property allow you to add rounded borders to elements!",
+    "read": false
+  }
+]

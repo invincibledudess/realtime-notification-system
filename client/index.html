@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="static/bootstrap-3.3.6-dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="static/font-awesome-4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="static/css/style.css">
+    <script type="text/javascript" src="static/js/socket.io.js"></script>
+    <script type="text/javascript" src="static/js/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" src="script.js"></script>
+    <title>Full stack Notification System</title>
+</head>
+<body>
+
+<div class="background"></div>
+<header class="main-header">
+    <form class="pa-l form-inline pull-left" role="form">
+        <div class="form-group">
+            <div class="col-xs-12">
+                <span class="glyphicon glyphicon-search text-search grey-icon"></span>
+                <input type="text" class="form-control" id="search-term"/>
+            </div>
+        </div>
+    </form>
+    <div class="pull-right user-info">
+        <div class="pull-left">
+            <div class="notification notif-hidden pa-l">
+                <span class="bell-icon fa fa-bell-o grey-icon"></span>
+                <span class="main-count tag hide-element"></span> <!-- Add hide class to hide it -->
+            </div>
+            <span class="mail-icon fa fa-envelope-o pa-l grey-icon"></span>
+        </div>
+        <div class="user-desc pull-right pa-l">
+            <img src="static/img/user.jpg" class="user-img">
+            <span class="glyphicon glyphicon-chevron-down gi-s mh-s dropdown white-icon"></span>
+        </div>
+    </div>
+</header>
+<div class="notif-container">
+    <div class="header pa-l">
+        <span>Notifications</span>
+        <span class="main-count tag"></span>
+    </div>
+    <div class="list">
+
+    </div>
+    <div class="loader-container hide">
+        <div class="three-quarters-loader"></div>
+    </div>
+</div>
+</body>
+</html>

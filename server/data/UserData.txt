@@ -1,0 +1,62 @@
+/* 0 */
+{
+    "_id" : ObjectId("569889a0fa277bcdc5d7d5fe"),
+    "username" : "nehasharma",
+    "firstName" : "Neha",
+    "lastName" : "Sharma",
+    "imgName" : "p1.jpg"
+}
+
+/* 1 */
+{
+    "_id" : ObjectId("569889b5fa277bcdc5d7d5ff"),
+    "username" : "testUser",
+    "firstName" : "Test",
+    "lastName" : "User",
+    "imgName" : "p2.jpg"
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("569889bffa277bcdc5d7d600"),
+    "username" : "testUser1",
+    "firstName" : "Test1",
+    "lastName" : "User1",
+    "imgName" : "p3.jpg"
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("569889c7fa277bcdc5d7d601"),
+    "username" : "testUser2",
+    "firstName" : "Test3",
+    "lastName" : "User3",
+    "imgName" : "p1.jpg"
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("569889d0fa277bcdc5d7d602"),
+    "username" : "testUser2",
+    "firstName" : "Test2",
+    "lastName" : "User2",
+    "imgName" : "p2.jpg"
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("569889ddfa277bcdc5d7d603"),
+    "username" : "ramLakhan",
+    "firstName" : "Ram",
+    "lastName" : "Lakhan",
+    "imgName" : "p3.jpg"
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("569889ecfa277bcdc5d7d604"),
+    "username" : "ryanDahl",
+    "firstName" : "Ryan",
+    "lastName" : "Dahl",
+    "imgName" : "p1.jpg"
+}
